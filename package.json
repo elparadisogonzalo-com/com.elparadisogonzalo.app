@@ -1,0 +1,23 @@
+{
+  "name": "com.elparadisogonzalo.app",
+  "version": "1.0.0",
+  "description": "default elparadisogonzalo app",
+  "keywords": [
+    "llm"
+  ],
+  "homepage": "https://github.com/elparadisogonzalo-com/com.elparadisogonzalo.app#readme",
+  "bugs": {
+    "url": "https://github.com/elparadisogonzalo-com/com.elparadisogonzalo.app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elparadisogonzalo-com/com.elparadisogonzalo.app.git"
+  },
+  "license": "Apache-2.0",
+  "author": "elparadiso",
+  "type": "express",
+  "main": "/sdcard/Android/media/com.elparadisogonzalo.app",
+  "scripts": {
+    "test": "npm start"
+  }
+}
